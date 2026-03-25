@@ -1,486 +1,220 @@
 <div align="center">
-<!-- ═══════════════════════  HERO BANNER  ═══════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,30:0d1b3e,60:0a2a4a,100:00f5ff20&height=220&section=header&text=TARUN%20PHOGAT&fontSize=62&fontColor=00f5ff&fontAlignY=42&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Data%20Engineering%20%E2%80%A2%20Full-Stack%20Builder&descAlignY=62&descSize=17&descColor=7dd3fc&animation=fadeIn&fontAlign=50&stroke=00f5ff&strokeWidth=1" width="100%"/>
-<!-- Typing SVG -->
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=750&lines=%E2%96%B6+Building+RAG+%7C+NLP+%7C+Cloud+AI+%7C+Full-Stack+Systems;%E2%96%B6+Oracle+Cloud+%26+Microsoft+Azure+Certified;%E2%96%B6+Kaggle+Bronze+Medalist+%7C+%2322+Global+Ranking;%E2%96%B6+Open+to+AI%2FML+%E2%80%A2+Data+Engineering+%E2%80%A2+Cloud+Roles" alt="Typing SVG" /></a>
+  <!-- ==================== HERO BANNER (Highly Animated) ==================== -->
+  <!-- Replace this with your custom SweetBanner SVG for meteors + particles + glowing name -->
+  <img src="https://raw.githubusercontent.com/TarunPh25/TarunPh25/main/assets/hero.svg" 
+       width="100%" 
+       style="border-radius: 16px; box-shadow: 0 0 50px rgba(0, 245, 255, 0.4);" 
+       alt="TARUN PHOGAT - AI ML Engineer - Futuristic Neural Header"/>
 
-<br/>
-<!-- Social Links -->
+  <!-- Subtle glowing name overlay (if your SVG doesn't have text) -->
+  <div style="margin-top: -110px; position: relative; z-index: 10;">
+    <h1 style="font-size: 4.8rem; margin: 0; font-weight: 800; 
+               background: linear-gradient(90deg, #00f5ff, #a5f3fc); 
+               -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+               text-shadow: 0 0 40px rgba(0, 245, 255, 0.7); letter-spacing: -2px;">
+      TARUN PHOGAT
+    </h1>
+    <p style="font-size: 1.55rem; color: #67e8f9; margin: 8px 0 0; letter-spacing: 3px; font-weight: 500;">
+      AI • ML • Data • Full-Stack Builder
+    </p>
+  </div>
 
-<a href="https://www.linkedin.com/in/tarun18/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
- 
-<a href="https://github.com/TarunPh25"><img src="https://img.shields.io/badge/-GitHub-161b22?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22"/></a>
- 
-<a href="mailto:phogattarun18@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
- 
-<a href="https://tarunphogat.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-00F5FF?style=for-the-badge&logo=vercel&logoColor=black"/></a>
+  <br>
 
+  <!-- Slim Animated Typing -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2400&pause=700&color=00F5FF&center=true&vCenter=true&width=820&lines=Building+Production+RAG+%7C+NLP+%7C+Cloud+AI;Oracle+%26+Azure+Certified;Kaggle+Bronze+Medalist+%E2%80%A2+%2322+Global;Open+to+AI%2FML+%E2%80%A2+Data+Engineering+Roles" alt="Typing Animation"/>
+  </a>
 
-<br/><br/>
+  <br><br>
 
-<!-- Key stat pills -->
-<img src="https://img.shields.io/badge/🎓_B.Tech_CSE-LPU_·_CGPA_7.95-0d1b3e?style=flat-square&labelColor=00f5ff&color=0d1b3e"/>
-&nbsp;
-<img src="https://img.shields.io/badge/🏆_Kaggle-Bronze_Medalist_·_%2322_Global-0d1b3e?style=flat-square&labelColor=20BEFF&color=0d1b3e"/>
-&nbsp;
-<img src="https://img.shields.io/badge/☁️_Certified-Oracle_·_Azure-0d1b3e?style=flat-square&labelColor=F80000&color=0d1b3e"/>
-&nbsp;
-<img src="https://img.shields.io/badge/⚡_LeetCode-209_Problems_·_76_Day_Streak-0d1b3e?style=flat-square&labelColor=FFA116&color=0d1b3e"/>
-<br/>
-<img src="https://komarev.com/ghpvc/?username=TarunPh25&style=for-the-badge&color=00f5ff&label=PROFILE+VIEWS&labelColor=0d1117" alt="Profile Views"/>
+  <!-- Neon Social Links -->
+  <div align="center">
+    <a href="https://www.linkedin.com/in/tarun18/">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1b3e" height="42"/>
+    </a>
+     
+    <a href="https://github.com/TarunPh25">
+      <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1b3e" height="42"/>
+    </a>
+     
+    <a href="mailto:phogattarun18@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1b3e" height="42"/>
+    </a>
+     
+    <a href="https://tarunphogat.vercel.app">
+      <img src="https://img.shields.io/badge/Portfolio-Visit-00F5FF?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0d1b3e" height="42"/>
+    </a>
+  </div>
+
+  <br>
+
+  <!-- Visual Key Stats -->
+  <div align="center">
+    <img src="https://img.shields.io/badge/🎓_B.Tech_CSE_-_LPU-0d1b3e?style=flat-square&labelColor=00f5ff&color=0d1b3e" height="36"/>
+     
+    <img src="https://img.shields.io/badge/🏆_Kaggle_Bronze_%2322_Global-0d1b3e?style=flat-square&labelColor=20BEFF&color=0d1b3e" height="36"/>
+     
+    <img src="https://img.shields.io/badge/☁️_Oracle_%26_Azure_Certified-0d1b3e?style=flat-square&labelColor=FF4D4D&color=0d1b3e" height="36"/>
+     
+    <img src="https://img.shields.io/badge/⚡_LeetCode_209+_Problems-0d1b3e?style=flat-square&labelColor=FFA116&color=0d1b3e" height="36"/>
+  </div>
+
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=TarunPh25&style=for-the-badge&color=00f5ff&label=PROFILE+VIEWS&labelColor=0d1117" alt="Profile Views"/>
+
 </div>
 
-<!-- ═══════════════════════  ABOUT  ═══════════════════════ -->
+<br><br>
+
+<!-- ==================== ABOUT ==================== -->
 <div align="center">
-
-{ about_me }
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3000&pause=500&color=7DD3FC&center=true&vCenter=true&multiline=true&width=760&height=110&lines=I+build+intelligent+systems+with+clarity%2C+speed%2C+and+quiet+confidence.;End-to-end+data+pipelines+%E2%86%92+production-grade+full-stack+apps+%E2%86%92+cloud+AI.;Transformer+fine-tuning+%7C+Serverless+Azure+AI+%7C+RAG+Legal+Assistant.;I%27m+here+for+the+full+stack+of+it." alt="About"/>
-
-
-
-🌍 Location
-🏫 University
-📊 CGPA
-💼 Status
-
-
-
-
-Phagwara, Punjab, India
-Lovely Professional University
-7.95 / 10
-Open to Roles
-
-
-
+  <h2>🔥 About Me</h2>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2800&pause=600&color=7DD3FC&center=true&vCenter=true&multiline=true&width=780&height=90&lines=I+build+intelligent+systems+with+clarity+and+speed.;End-to-end+data+pipelines+%E2%86%92+production+AI+%E2%86%92+scalable+full-stack.;Transformer+fine-tuning+%7C+RAG+%7C+Serverless+Azure.;Quiet+confidence+%7C+Full+stack+of+it." alt="About Typing"/>
+  
+  <br><br>
+  🌍 Phagwara, Punjab, India &nbsp;&nbsp; | &nbsp;&nbsp; 🏫 Lovely Professional University &nbsp;&nbsp; | &nbsp;&nbsp; 📊 CGPA 7.95 &nbsp;&nbsp; | &nbsp;&nbsp; 💼 Open to AI/ML • Data Engineering • Cloud Roles
 </div>
 
-<!-- ═══════════════════════  TECH STACK  ═══════════════════════ -->
+<br><br>
+
+<!-- ==================== TECH STACK (Visual Icons) ==================== -->
 <div align="center">
-
-{ tech_stack }
-
-
-— Languages —
-
-
-
-
-
-
-
-
-
-— AI · ML · Data Science —
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-— Full-Stack · Web —
-
-
-
-
-
-
-
-
-
-
-
-— Cloud · DevOps · Databases —
-
-
-
-
-
-
-
-
-
-
-
+  <h2>🛠️ Tech Stack</h2>
+  
+  **Languages**  
+  Python • JavaScript • TypeScript • SQL • C++
+  
+  **AI • ML • Data**  
+  PyTorch • TensorFlow • LangChain • RAG • Transformers • XGBoost • Pandas • Scikit-learn • Ollama • ChromaDB
+  
+  **Full-Stack • Web**  
+  Next.js • React • FastAPI • Node.js • Tailwind • PostgreSQL
+  
+  **Cloud • DevOps**  
+  Azure • Oracle Cloud • Docker • Git • Serverless Functions
+  
 </div>
 
-<!-- ═══════════════════════  PROJECTS  ═══════════════════════ -->
+<br><br>
+
+<!-- ==================== FEATURED PROJECTS ==================== -->
 <div align="center">
-
-{ featured_projects }
-
+  <h2>🚀 Featured Projects</h2>
 </div>
+
 <table>
-<tr>
-<td width="50%" valign="top">
-<div align="center">
-
-🧠 StudyDocs RAG
-
-
-AI Study Assistant
-
-
-
-
-
-
-</div>
-
-Retrieval-Augmented Generation study assistant. Dual FastAPI vs LangChain RAG engines, Ollama for local LLM inference, ChromaDB vector storage, Next.js App Router frontend.
-
-<div align="center">
-
-
-
-
-
-
-
-
-
-
-</div>
-</td>
-<td width="50%" valign="top">
-<div align="center">
-
-🏛️ LPU Placement Portal
-
-
-Full-Stack University Platform
-
-
-
-
-
-
-</div>
-
-University placement system with a 40-table PostgreSQL schema, strict Role-Based Access Control, full student/admin/company dashboards. Real-world system design at scale.
-
-<div align="center">
-
-
-
-
-
-
-
-
-
-
-</div>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<div align="center">
-
-⚖️ Legal Lens AI
-
-
-Legal Document Simplifier
-
-
-
-
-
-
-</div>
-
-Converts dense legal contracts into clear summaries using Google Gemini + RAG. Clause-level highlighting, multilingual Q&A — 90% faster document comprehension.
-
-<div align="center">
-
-
-
-
-
-
-
-
-
-
-</div>
-</td>
-<td width="50%" valign="top">
-<div align="center">
-
-☁️ Cloud AI Chatbot
-
-
-Azure Serverless · Customer Services
-
-
-
-
-
-
-</div>
-
-Transformer NLP deployed as Azure Serverless Function for real-time query resolution. Tokenization + sentiment tagging pipeline. Power BI analytics over 50K+ interactions.
-
-<div align="center">
-
-
-
-
-
-
-
-
-
-</div>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<div align="center">
-
-🏅 London House Price Prediction
-
-
-Kaggle — #22 Global
-
-
-
-
-
-
-</div>
-
-Top 22 globally on Kaggle. Ensemble of XGBoost + LightGBM + CatBoost with advanced feature engineering — outperforming all major baselines.
-
-<div align="center">
-
-
-
-
-
-
-
-
-
-</div>
-</td>
-<td width="50%" valign="top">
-<div align="center">
-
-📷 Offline OCR App
-
-
-Computer Vision · Privacy-First
-
-
-
-
-
-
-</div>
-
-Fully offline OCR — zero data leaves the machine. Tesseract for high-precision text extraction, FastAPI REST interface. Built for sensitive document workflows.
-
-<div align="center">
-
-
-
-
-
-
-
-
-
-</div>
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h3>🧠 StudyDocs RAG</h3>
+      <p><strong>AI Study Assistant</strong></p>
+      Dual RAG engines (FastAPI + LangChain) • Ollama local LLM • ChromaDB • Next.js frontend
+      <br><br>
+      <!-- Add your project GIF/demo here later -->
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3>🏛️ LPU Placement Portal</h3>
+      <p><strong>Full-Stack University Platform</strong></p>
+      40-table PostgreSQL • Role-Based Access • Student/Admin/Company dashboards • Real-scale design
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h3>⚖️ Legal Lens AI</h3>
+      <p><strong>Legal Document Simplifier</strong></p>
+      Gemini + RAG • Clause highlighting • Multilingual Q&A • 90% faster comprehension
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3>☁️ Cloud AI Chatbot</h3>
+      <p><strong>Azure Serverless Customer Service</strong></p>
+      Transformer NLP • Serverless Function • Sentiment analysis • Power BI on 50K+ interactions
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h3>🏅 London House Price Prediction</h3>
+      <p><strong>Kaggle — #22 Global</strong></p>
+      Ensemble (XGBoost + LightGBM + CatBoost) • Advanced feature engineering
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3>📷 Offline OCR App</h3>
+      <p><strong>Privacy-First Computer Vision</strong></p>
+      Tesseract • Fully offline • FastAPI • Sensitive document workflows
+    </td>
+  </tr>
 </table>
+
+<br><br>
+
+<!-- ==================== EXPERIENCE ==================== -->
 <div align="center">
-
-
-
+  <h2>💼 Experience</h2>
+  
+  <strong>Data Analyst Intern</strong> @ Futurense Technologies (Jun–Aug 2025)  
+  Power BI • Python • Pandas • SQL • Automated workflows (40% faster)
+  
+  <br><br>
+  
+  <strong>Academic Data Analysis</strong> — IIT Jodhpur MBA Program (2025)  
+  NumPy • EDA • Stakeholder reporting • Real-time KPI dashboards
 </div>
 
-<!-- ═══════════════════════  EXPERIENCE  ═══════════════════════ -->
+<br><br>
+
+<!-- ==================== EDUCATION ==================== -->
 <div align="center">
-
-{ experience }
-
-
-
-
-
-Role
-Company
-Period
-Stack
-
-
-
-
-🏢
-Data Analyst Intern
-Futurense Technologies
-Jun – Aug 2025
-Power BI · Python · Pandas · SQL
-
-
-📊
-Academic Data Analysis
-IIT Jodhpur MBA Program
-2025
-NumPy · EDA · Stakeholder Reporting
-
-
-⚡
-Workflow Automation
-Data Cleaning Pipelines
-2025
-40% faster processing time
-
-
-📈
-BI Dashboard Design
-Real-time KPI Monitoring
-2025
-Interactive Power BI · Decision Support
-
-
-
+  <h2>🎓 Education</h2>
+  
+  **B.Tech Computer Science & Engineering**  
+  Lovely Professional University, Punjab (Aug 2023 – Present) — CGPA 7.95
+  
+  **Intermediate (PCM)** — H.D Public School (81.4%)  
+  **Matriculation** — H.D Public School (74%)
 </div>
 
-<!-- ═══════════════════════  EDUCATION  ═══════════════════════ -->
+<br><br>
+
+<!-- ==================== GITHUB STATS ==================== -->
 <div align="center">
-
-{ education }
-
-
-
-
-🎓 Degree
-🏫 Institution
-📅 Period
-🏆 Score
-
-
-
-
-B.Tech — Computer Science & Engineering
-Lovely Professional University, Punjab
-Aug 2023 – Present
-CGPA 7.95
-
-
-Intermediate (PCM)
-H.D Public School, Birohar, Jhajjar
-Apr 2022 – Mar 2023
-81.4%
-
-
-Matriculation
-H.D Public School, Birohar, Jhajjar
-Apr 2020 – Mar 2021
-74%
-
-
-
+  <h2>📊 GitHub Stats</h2>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=TarunPh25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=a78bfa&text_color=7dd3fc&ring_color=00f5ff&border_radius=12" height="180"/>
+   
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarunPh25&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=7dd3fc&border_radius=12&langs_count=8" height="180"/>
+  
+  <br><br>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TarunPh25&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00f5ff&line=a78bfa&point=00f5ff&area=true&area_color=00f5ff20&radius=8" width="95%"/>
 </div>
 
-<!-- ═══════════════════════  CERTIFICATIONS  ═══════════════════════ -->
+<br><br>
+
+<!-- ==================== CONNECT ==================== -->
 <div align="center">
-
-{ certifications_&_achievements }
-
-<br/>
-
-
-
-
-
-
-
-
-
-<br/>
-
-
-
-
-
-
-
-
-
-
-
-
+  <h2>Let's Build Something Intelligent Together</h2>
+  
+  <a href="https://www.linkedin.com/in/tarun18/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect_Now-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="42"/>
+  </a>
+   
+  <a href="mailto:phogattarun18@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Drop_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="42"/>
+  </a>
+   
+  <a href="https://tarunphogat.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Site-00F5FF?style=for-the-badge&logo=vercel&logoColor=black" height="42"/>
+  </a>
+   
+  <a href="https://github.com/TarunPh25">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" height="42"/>
+  </a>
 </div>
 
-<!-- ═══════════════════════  GITHUB STATS  ═══════════════════════ -->
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff20,50:0d1b3e,100:0a0a1a&height=120&section=footer&text=Keep+Building.+Keep+Shipping.&fontSize=20&fontColor=00f5ff&animation=twinkling" width="100%"/>
+
 <div align="center">
-
-{ github_stats }
-
-<br/>
-<img src="https://github-readme-stats.vercel.app/api?username=TarunPh25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=a78bfa&text_color=7dd3fc&ring_color=00f5ff&border_radius=12&hide_rank=false" height="175"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarunPh25&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=7dd3fc&border_radius=12&langs_count=8" height="175"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TarunPh25&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00f5ff&line=a78bfa&point=00f5ff&area=true&area_color=00f5ff20&radius=6" width="96%"/>
-</div>
-
-<!-- ═══════════════════════  CONNECT  ═══════════════════════ -->
-<div align="center">
-
-{ let's_build_together }
-
-<br/>
-<a href="https://www.linkedin.com/in/tarun18/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect_Now-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:phogattarun18@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Drop_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://tarunphogat.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-Visit_Site-00F5FF?style=for-the-badge&logo=vercel&logoColor=black"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/TarunPh25">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-
-
-
-
-
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff10,50:0d1b3e,100:0a0a1a&height=130&section=footer&text=Keep+Building.+Keep+Shipping.&fontSize=22&fontColor=00f5ff&fontAlignY=52&animation=fadeIn" width="100%"/>
-<div align="center">
-
-Crafted with ❤️ and way too much ☕ — Tarun Phogat
-
-
-
-
-
-
+  Crafted with ❤️ and way too much ☕ — Tarun Phogat
 </div>
