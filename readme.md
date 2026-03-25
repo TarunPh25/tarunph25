@@ -1,16 +1,16 @@
 <div align="center">
 
-  <!-- HERO -->
+  <!-- HERO BANNER -->
   <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0a0a1a,30:0d1b3e,60:00f5ff,100:7dd3fc&height=260&section=header&text=TARUN%20PHOGAT&fontSize=72&fontColor=00f5ff&fontAlignY=42&desc=AI%20%7C%20ML%20ENGINEER%20%E2%80%A2%20DATA%20ENGINEERING%20%E2%80%A2%20FULL-STACK%20AI%20SYSTEMS&descAlignY=65&descSize=20&descColor=7dd3fc&animation=wave&fontAlign=50&stroke=00f5ff&strokeWidth=2" width="100%"/>
 
-  <!-- TYPING -->
+  <!-- TYPING ANIMATION -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=21&duration=2500&pause=700&color=00F5FF&center=true&vCenter=true&width=840&lines=%E2%96%B6%20RAG%20%7C%20NLP%20%7C%20Agentic%20AI%20%7C%20Cloud%20Systems;%E2%96%B6%20Oracle%20%26%20Azure%20Certified;%E2%96%B6%20Kaggle%20Bronze%20%E2%80%A2%20%2322%20Global;%E2%96%B6%20Building%20Production-Grade%20Intelligent%20Systems" alt="Typing"/>
   </a>
 
   <br/><br/>
 
-  <!-- SOCIAL -->
+  <!-- SOCIAL LINKS -->
   <a href="https://www.linkedin.com/in/tarun18/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
   <a href="https://github.com/TarunPh25"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>  
   <a href="mailto:phogattarun18@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
@@ -50,9 +50,9 @@
 
 <br/>
 
-<!-- PROJECTS -->
+<!-- FEATURED PROJECTS -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0d1b3e&height=75&text=FEATURED%20PROJECTS&fontSize=28&fontColor=00f5ff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0d1b3e&height=80&text=FEATURED%20PROJECTS&fontSize=28&fontColor=00f5ff" width="100%"/>
 </div>
 
 <table>
@@ -96,16 +96,19 @@
 
 <br/>
 
-<!-- EXPERIENCE & EDUCATION -->
+<!-- EXPERIENCE -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0d1b3e&height=70&text=EXPERIENCE&fontSize=26&fontColor=00f5ff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0d1b3e&height=80&text=EXPERIENCE&fontSize=28&fontColor=00f5ff" width="100%"/>
 </div>
 
 **Data Analyst Intern** @ Futurense Technologies (Jun – Aug 2025)  
 Power BI • Python • SQL • Automated Pipelines • **40% faster processing**
 
+<br/>
+
+<!-- EDUCATION -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0d1b3e&height=70&text=EDUCATION&fontSize=26&fontColor=00f5ff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0d1b3e&height=80&text=EDUCATION&fontSize=28&fontColor=00f5ff" width="100%"/>
 </div>
 
 **B.Tech Computer Science & Engineering**  
@@ -114,11 +117,14 @@ Lovely Professional University, Punjab (Aug 2023 – Present)
 
 <br/>
 
-<!-- CERTS -->
-**Certifications & Achievements**  
+<!-- CERTIFICATIONS -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0d1b3e&height=80&text=CERTIFICATIONS%20%26%20ACHIEVEMENTS&fontSize=28&fontColor=00f5ff" width="100%"/>
+</div>
+
 • Oracle Cloud Infrastructure – Data Science Certified  
 • Microsoft Azure Data Fundamentals (DP-900)  
-• Kaggle Bronze Medalist – London House Price (#22 Global)  
+• **Kaggle Bronze Medalist** – London House Price Prediction (#22 Global)  
 • LeetCode: 209 Problems • 76-day streak
 
 <br/>
